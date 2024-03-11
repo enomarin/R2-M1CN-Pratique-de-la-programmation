@@ -1,0 +1,14 @@
+[
+  {
+    "species": "cat",
+    "width": 350,
+    "height": 450,
+    "path": "cat.png"
+  },
+  {
+    "species": "dog",
+    "width": 265,
+    "height": 400,
+    "path": "dog.png"
+  }
+]
